@@ -1,0 +1,2 @@
+FROM ghcr.io/xtls/xray-core:26.3.27
+COPY xray-vless-railway.json /usr/local/etc/xray/config.json
